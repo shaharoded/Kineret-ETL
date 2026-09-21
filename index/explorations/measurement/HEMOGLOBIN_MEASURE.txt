@@ -1,0 +1,11 @@
+{
+'concept_name': {
+'ID: 3000963 | Value: Hemoglobin [Mass/volume] in Blood | COUNT: 1109640',
+'ID: 3004119 | Value: Hemoglobin [Mass/volume] in Venous blood | COUNT: 109450',
+'ID: 2212643 | Value: Blood count; hemoglobin (Hgb) | COUNT: 54544',
+'ID: 3002173 | Value: Hemoglobin [Mass/volume] in Arterial blood | COUNT: 65',
+},
+'unit':[
+'g/dL', 'g/dl'
+]
+}

@@ -1,0 +1,9 @@
+{
+'concept_name': {
+'ID: 3023103 | Value: Potassium [Moles/volume] in Serum or Plasma | COUNT: 998996',
+'ID: 46235078 | Value: Potassium [Moles/volume] in Serum, Plasma or Blood | COUNT: 998995',
+'ID: 3005456 | Value: Potassium [Moles/volume] in Blood | COUNT: 184178',
+'ID: 3043409 | Value: Potassium [Moles/volume] in Arterial blood | COUNT: 26977',
+'ID: 3040893 | Value: Potassium [Moles/volume] in Capillary blood | COUNT: 5147'
+}
+}

@@ -1,0 +1,15 @@
+{
+'concept_name': {
+'ID: 376683 | Value: Nonproliferative retinopathy due to diabetes mellitus | COUNT: 3493',
+'ID: 380097 | Value: Macular edema due to diabetes mellitus | COUNT: 2956',
+'ID: 380096 | Value: Proliferative retinopathy due to diabetes mellitus | COUNT: 2827',
+'ID: 443767 | Value: Disorder of eye due to diabetes mellitus | COUNT: 2288',
+'ID: 376114 | Value: Severe nonproliferative retinopathy due to diabetes mellitus | COUNT: 262',
+'ID: 42538169 | Value: Disorder of eye due to type 1 diabetes mellitus | COUNT: 162',
+'ID: 4174977 | Value: Retinopathy due to diabetes mellitus | COUNT: 136',
+'ID: 377552 | Value: Moderate nonproliferative retinopathy due to diabetes mellitus | COUNT: 83',
+'ID: 378743 | Value: Mild nonproliferative retinopathy due to diabetes mellitus | COUNT: 51',
+'ID: 374338 | Value: Nondiabetic proliferative retinopathy | COUNT: 22',
+'ID: 36716226 | Value: Diabetic retinal eye exam | COUNT: 1'
+}
+}

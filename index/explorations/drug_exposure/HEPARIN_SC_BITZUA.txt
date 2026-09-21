@@ -1,0 +1,25 @@
+{
+'concept_name': {
+'ID: 43011850 | Value: heparin sodium, porcine 5000 UNT/ML Injectable Solution | COUNT: 34885',
+'ID: 46275507 | Value: 1 ML heparin sodium, porcine 5000 UNT/ML Injection | COUNT: 18287',
+'ID: 2028259 | Value: 5 ML heparin 5000 IU/ML Injectable Solution | COUNT: 5293',
+'ID: 1367571 | Value: heparin | COUNT: 4059',
+'ID: 2936559 | Value: Heparin Sodium 2 IU/ML / sodium chloride 9 MG/ML Injection | COUNT: 2457',
+'ID: 2032037 | Value: 1 ML heparin 5000 IU/ML Injectable Solution | COUNT: 2249',
+'ID: 2059333 | Value: heparin 1000 IU/ML Injectable Solution | COUNT: 2071',
+'ID: 35884360 | Value: Heparin Sodium | COUNT: 1001',
+'ID: 35829515 | Value: Heparin Sodium 100 UNT/ML | COUNT: 418',
+'ID: 46275360 | Value: 1 ML heparin sodium, porcine 1000 UNT/ML Injection | COUNT: 365',
+'ID: 43280714 | Value: 5 ML heparin 1000 UNT/ML Injection | COUNT: 337',
+'ID: 35829486 | Value: Heparin Sodium 1000 UNT/ML Injectable Solution | COUNT: 77',
+'ID: 2904192 | Value: 1 ML Heparin Sodium 1000 UNT/ML Injection | COUNT: 18',
+'ID: 43038222 | Value: 1 ML heparin 25000 UNT/ML Injectable Solution [Calciparine] | COUNT: 8',
+'ID: 19135718 | Value: heparin calcium 25000 UNT/ML Injectable Solution | COUNT: 7',
+
+'ID: 1367571 | Value: heparin | COUNT: 4059',
+'ID: 35884360 | Value: Heparin Sodium | COUNT: 1001',
+'ID: 35829515 | Value: Heparin Sodium 100 UNT/ML | COUNT: 418'
+},
+"drug_type_category":"given_in_hospital",
+"route": ["Subcutaneous route"]
+}

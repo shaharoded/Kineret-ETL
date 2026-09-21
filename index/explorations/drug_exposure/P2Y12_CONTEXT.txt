@@ -1,0 +1,35 @@
+# clopidogrel and related medications
+{
+'concept_name': {
+'ID: 1322185 | Value: clopidogrel 75 MG Oral Tablet [Plavix] | COUNT: 114378',
+'ID: 40241188 | Value: ticagrelor 90 MG Oral Tablet | COUNT: 20882',
+'ID: 40241189 | Value: ticagrelor 90 MG Oral Tablet [Brilinta] | COUNT: 10322',
+'ID: 1322190 | Value: clopidogrel 300 MG Oral Tablet [Plavix] | COUNT: 4378',
+'ID: 40163721 | Value: prasugrel 10 MG Oral Tablet [Effient] | COUNT: 4150',
+'ID: 1322185 | Value: clopidogrel 75 MG Oral Tablet [Plavix] | COUNT: 4020',
+'ID: 21141604 | Value: clopidogrel 75 MG Oral Tablet by TEVA | COUNT: 2725',
+'ID: 40163720 | Value: prasugrel 10 MG Oral Tablet | COUNT: 1642',
+'ID: 19075601 | Value: clopidogrel 75 MG Oral Tablet | COUNT: 1546',
+'ID: 41003851 | Value: clopidogrel 75 MG Oral Tablet [Clopidogrel Dexcel] | COUNT: 1105',
+'ID: 44061025 | Value: clopidogrel 75 MG Oral Tablet [CLOPIDOGREL TEVA] | COUNT: 949',
+'ID: 40957431 | Value: clopidogrel Oral Tablet [Clopidogrel Dexcel] | COUNT: 499',
+'ID: 40241188 | Value: ticagrelor 90 MG Oral Tablet | COUNT: 477',
+'ID: 1322184 | Value: clopidogrel | COUNT: 349',
+'ID: 40163721 | Value: prasugrel 10 MG Oral Tablet [Effient] | COUNT: 219',
+'ID: 46287540 | Value: ticagrelor 60 MG Oral Tablet [Brilinta] | COUNT: 206',
+'ID: 21141604 | Value: clopidogrel 75 MG Oral Tablet by TEVA | COUNT: 205',
+'ID: 40241189 | Value: ticagrelor 90 MG Oral Tablet [Brilinta] | COUNT: 149',
+'ID: 40957431 | Value: clopidogrel Oral Tablet [Clopidogrel Dexcel] | COUNT: 61',
+'ID: 1322184 | Value: clopidogrel | COUNT: 53',
+'ID: 1322189 | Value: clopidogrel 300 MG Oral Tablet | COUNT: 46',
+'ID: 44061025 | Value: clopidogrel 75 MG Oral Tablet [CLOPIDOGREL TEVA] | COUNT: 42',
+'ID: 40163725 | Value: prasugrel 5 MG Oral Tablet [Effient] | COUNT: 41',
+'ID: 46287540 | Value: ticagrelor 60 MG Oral Tablet [Brilinta] | COUNT: 12',
+'ID: 40163720 | Value: prasugrel 10 MG Oral Tablet | COUNT: 5',
+'ID: 1322190 | Value: clopidogrel 300 MG Oral Tablet [Plavix] | COUNT: 4',
+'ID: 19075601 | Value: clopidogrel 75 MG Oral Tablet | COUNT: 3',
+'ID: 41003851 | Value: clopidogrel 75 MG Oral Tablet [Clopidogrel Dexcel] | COUNT: 1',
+'ID: 46287538 | Value: ticagrelor 60 MG Oral Tablet | COUNT: 1'
+},
+"drug_type_category":["given_in_hospital","chronic_medications"]
+}

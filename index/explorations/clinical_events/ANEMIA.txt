@@ -1,0 +1,16 @@
+{
+'concept_name': {
+'ID: 439777 | Value: Anemia | COUNT: 35995',
+'ID: 436659 | Value: Iron deficiency anemia | COUNT: 9323',
+'ID: 45768812 | Value: Anemia in chronic kidney disease | COUNT: 1233',
+'ID: 432588 | Value: Megaloblastic anemia due to vitamin B-12 deficiency | COUNT: 1163',
+'ID: 440979 | Value: Acquired hemolytic anemia | COUNT: 758',
+'ID: 437247 | Value: Anemia of chronic disease | COUNT: 707',
+'ID: 440977 | Value: Megaloblastic anemia due to folate deficiency | COUNT: 268',
+'ID: 441269 | Value: Autoimmune hemolytic anemia | COUNT: 198',
+'ID: 137829 | Value: Aplastic anemia | COUNT: 125',
+'ID: 437834 | Value: Non-autoimmune hemolytic anemia | COUNT: 88',
+'ID: 433168 | Value: Iron deficiency anemia secondary to inadequate dietary iron intake | COUNT: 44',
+'ID: 435789 | Value: Megaloblastic anemia | COUNT: 8'
+}
+}

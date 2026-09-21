@@ -1,0 +1,43 @@
+{
+'concept_name': {
+'ID: 192279 | Value: Disorder of kidney due to diabetes mellitus | COUNT: 3386',
+'ID: 40483287 | Value: Disorder of kidney and/or ureter | COUNT: 317',
+'ID: 199991 | Value: Disorder of transplanted kidney | COUNT: 56',
+'ID: 192964 | Value: Infectious disorder of kidney | COUNT: 42',
+
+'ID: 192359 | Value: Renal failure syndrome | COUNT: 18000',
+
+'ID: 193519 | Value: Impaired renal function disorder | COUNT: 149',
+'ID: 200687 | Value: Renal disorder due to type 1 diabetes mellitus | COUNT: 135',
+'ID: 199870 | Value: Renal vascular disorder | COUNT: 133',
+
+'ID: 193782 | Value: End-stage renal disease | COUNT: 6935',
+'ID: 194686 | Value: Acquired renal cystic disease | COUNT: 2038',
+'ID: 201313 | Value: Hypertensive renal disease | COUNT: 926',
+'ID: 44784439 | Value: Benign hypertensive renal disease with renal failure | COUNT: 22',
+'ID: 4146725 | Value: Fetal or neonatal effect of maternal renal or urinary disease | COUNT: 18',
+'ID: 195556 | Value: Hypertensive heart AND renal disease | COUNT: 11',
+'ID: 442626 | Value: Benign hypertensive heart AND renal disease | COUNT: 8',
+'ID: 439694 | Value: Hypertensive heart and renal disease with both (congestive) heart failure and renal failure | COUNT: 5',
+'ID: 43020455 | Value: Malignant hypertensive end stage renal disease | COUNT: 3',
+'ID: 193493 | Value: Benign hypertensive renal disease | COUNT: 2',
+'ID: 439695 | Value: Hypertensive heart and renal disease with renal failure | COUNT: 2',
+'ID: 442603 | Value: Malignant hypertensive heart AND renal disease | COUNT: 1',
+
+'ID: 46271022 | Value: Chronic kidney disease | COUNT: 13226',
+'ID: 443597 | Value: Chronic kidney disease stage 3 | COUNT: 3786',
+'ID: 443611 | Value: Chronic kidney disease stage 5 | COUNT: 2929',
+'ID: 443612 | Value: Chronic kidney disease stage 4 | COUNT: 2916',
+'ID: 45768812 | Value: Anemia in chronic kidney disease | COUNT: 1233',
+'ID: 198124 | Value: Kidney disease | COUNT: 1062',
+'ID: 443601 | Value: Chronic kidney disease stage 2 | COUNT: 989',
+'ID: 44782690 | Value: Chronic kidney disease stage 5 due to hypertension | COUNT: 800',
+'ID: 443614 | Value: Chronic kidney disease stage 1 | COUNT: 129',
+'ID: 4109022 | Value: Autosomal dominant polycystic kidney disease in childhood | COUNT: 65',
+'ID: 35623051 | Value: Autosomal dominant polycystic kidney disease | COUNT: 65',
+'ID: 44782728 | Value: Hypertensive heart AND chronic kidney disease with congestive heart failure | COUNT: 34',
+'ID: 201675 | Value: Polycystic kidney disease, infantile type | COUNT: 16',
+'ID: 44782429 | Value: Chronic kidney disease due to hypertension | COUNT: 14',
+'ID: 197656 | Value: Medullary cystic disease of the kidney | COUNT: 4'
+}
+}

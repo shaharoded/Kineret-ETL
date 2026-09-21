@@ -1,0 +1,27 @@
+{
+'concept_name': {
+'ID: 74719 | Value: Ulcer of foot | COUNT: 4224',
+'ID: 200485 | Value: Pressure ulcer of buttock | COUNT: 1986',
+'ID: 134441 | Value: Chronic ulcer of skin | COUNT: 1681',
+'ID: 135333 | Value: Pressure ulcer | COUNT: 1022',
+'ID: 135893 | Value: Pressure ulcer of heel | COUNT: 759',
+'ID: 137945 | Value: Pressure ulcer stage 2 | COUNT: 714',
+'ID: 135340 | Value: Pressure ulcer stage 3 | COUNT: 457',
+'ID: 132393 | Value: Pressure ulcer stage 1 | COUNT: 431',
+'ID: 137345 | Value: Pressure ulcer stage 4 | COUNT: 413',
+'ID: 44783163 | Value: Pressure ulcer of lower back | COUNT: 274',
+'ID: 44782447 | Value: Pressure ulcer of hip | COUNT: 218',
+'ID: 44782446 | Value: Pressure ulcer of ankle | COUNT: 212',
+'ID: 4116485 | Value: Skin ulcer of calf | COUNT: 166',
+'ID: 439410 | Value: Pressure ulcer of elbow | COUNT: 13',
+'ID: 44783165 | Value: Pressure ulcer of upper back | COUNT: 13',
+'ID: 4290971 | Value: Amebic ulcer of skin | COUNT: 2',
+'ID: 4046381 | Value: Suture of ulcer of skin | COUNT: 1',
+
+'ID: 197304 | Value: Ulcer of lower extremity | COUNT: 852',
+'ID: 4171556 | Value: Ankle ulcer | COUNT: 160',
+'ID: 4029926 | Value: Ischemic ulcer | COUNT: 2772',
+'ID: 443593 | Value: Ulcer of thigh | COUNT: 29',
+
+}
+}

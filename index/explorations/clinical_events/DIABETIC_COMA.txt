@@ -1,0 +1,8 @@
+{
+'concept_name': {
+'ID: 4226238 | Value: Hyperosmolar coma due to diabetes mellitus | COUNT: 1737',
+'ID: 443735 | Value: Coma due to diabetes mellitus | COUNT: 531',
+'ID: 201531 | Value: Hyperosmolar coma due to type 1 diabetes mellitus | COUNT: 56',
+'ID: 37016355 | Value: Hyperosmolar coma due to secondary diabetes mellitus | COUNT: 43'
+}
+}

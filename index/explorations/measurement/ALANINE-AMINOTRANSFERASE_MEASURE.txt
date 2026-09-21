@@ -1,0 +1,6 @@
+{
+'concept_name': {
+'ID: 3006923 | Value: Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma | COUNT: 570684',
+'ID: 46235106 | Value: Alanine aminotransferase [Enzymatic activity/volume] in Blood | COUNT: 570681'
+}
+}

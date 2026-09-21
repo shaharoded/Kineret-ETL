@@ -1,0 +1,8 @@
+{
+'concept_name': {
+'ID: 19078632 | Value: insulin, regular, pork 100 UNT/ML Injectable Solution | COUNT: 6158',
+'ID: 35781503 | Value: 10 ML Regular Insulin, Human 100 UNT/ML Injectable Solution [Humulin R] | COUNT: 835'
+},
+"drug_type_category": "given_in_hospital",
+"route": "Intravenous route"
+}

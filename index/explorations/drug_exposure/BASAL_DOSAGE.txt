@@ -1,0 +1,41 @@
+{
+'concept_name': {
+'ID: 35782236 | Value: 10 ML Insulin Glargine 100 UNT/ML Injectable Solution | COUNT: 84792',
+'ID: 1502910 | Value: 3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus] | COUNT: 12122',
+'ID: 46221557 | Value: 1.5 ML insulin glargine 300 UNT/ML Pen Injector [Toujeo] | COUNT: 9782',
+'ID: 36418823 | Value: 1.5 ML Insulin Glargine 200 UNT/ML Injectable Solution [Toujeo] Box of 3 | COUNT: 7006',
+'ID: 2911257 | Value: insulin degludec 100 UNT/ML Cartridge [Tresiba] | COUNT: 6402',
+'ID: 42902821 | Value: insulin detemir 100 UNT/ML Pen Injector | COUNT: 5784',
+'ID: 35604094 | Value: 3 ML insulin glargine 100 UNT/ML Pen Injector [Basaglar] | COUNT: 5113',
+'ID: 46221555 | Value: insulin glargine 300 UNT/ML [Toujeo] | COUNT: 4634',
+'ID: 36809748 | Value: 3 ML insulin degludec 100 UNT/ML Injectable Solution | COUNT: 2845',
+'ID: 43268825 | Value: Insulin Glargine Injection [Basaglar] | COUNT: 1097',
+'ID: 36410316 | Value: 3 ML insulin degludec 200 UNT/ML Injectable Solution | COUNT: 913',
+'ID: 43275460 | Value: 10 ML Insulin Glargine 100 UNT/ML Injection | COUNT: 752',
+'ID: 43269920 | Value: 10 ML Insulin Glargine 100 UNT/ML Injection Box of 1 | COUNT: 752',
+'ID: 21107380 | Value: 3 ML insulin degludec 100 UNT/ML / liraglutide 3.6 MG/ML Prefilled Syringe [Xultophy] | COUNT: 652',
+'ID: 1516976 | Value: insulin detemir | COUNT: 638',
+'ID: 42937037 | Value: Regular Insulin, Human Pen Injector [BASAGLAR KWIKPEN] | COUNT: 385',
+'ID: 2038335 | Value: insulin degludec 100 IU/ML | COUNT: 319',
+'ID: 36410282 | Value: 3 ML insulin degludec 100 UNT/ML Injectable Solution | COUNT: 319',
+'ID: 2028897 | Value: 3 ML insulin glargine 100 IU/ML Pen Injector | COUNT: 260',
+'ID: 43518185 | Value: 3 ML Insulin Glargine 100 UNT/ML Cartridge [Basaglar] | COUNT: 236',
+'ID: 1718599 | Value: 3 ML insulin glargine 100 UNT/ML / lixisenatide 0.033 MG/ML Pen Injector | COUNT: 168',
+'ID: 2038330 | Value: insulin degludec 200 IU/ML | COUNT: 131',
+'ID: 43286086 | Value: 3 ML Insulin Glargine 100 UNT/ML Cartridge | COUNT: 47',
+'ID: 19135276 | Value: 3 ML insulin glargine 100 UNT/ML Pen Injector | COUNT: 40',
+'ID: 784298 | Value: 3 ML Insulin Glargine 100 UNT/ML / Lixisenatide 0.05 MG/ML Injectable Solution | COUNT: 4',
+
+
+'ID: 43517674 | Value: insulin, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injection [Mixtard] | COUNT: 57',
+
+
+'ID: 2053707 | Value: insulin, regular, human 100 IU/ML [INSULATARD HM] | COUNT: 21',
+
+'ID: 1596960 | Value: 3 ML insulin isophane, human 100 UNT/ML Pen Injector [Humulin N] | COUNT: 23',
+'ID: 1596960 | Value: 3 ML insulin isophane, human 100 UNT/ML Pen Injector [Humulin N] | COUNT: 3'
+},
+"drug_type_category": "given_in_hospital",
+"route": ["Subcutaneous route", "No matching concept"]
+}
+

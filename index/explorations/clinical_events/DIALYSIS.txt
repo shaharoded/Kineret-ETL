@@ -1,0 +1,27 @@
+{
+'concept_name': {
+'ID: 4120120 | Value: Hemodialysis | COUNT: 254006',
+'ID: 4324124 | Value: Peritoneal dialysis | COUNT: 66848',
+'ID: 2213576 | Value: Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies), with single evaluation by a physician or other qualified health care professional | COUNT: 19486',
+'ID: 2213572 | Value: Hemodialysis procedure with single evaluation by a physician or other qualified health care professional | COUNT: 8634',
+'ID: 4289454 | Value: Venous catheterization for renal dialysis | COUNT: 1698',
+'ID: 438624 | Value: Complication of renal dialysis | COUNT: 986',
+'ID: 2002282 | Value: Hemodialysis | COUNT: 979',
+'ID: 4197217 | Value: Arteriovenous anastomosis for renal dialysis | COUNT: 956',
+'ID: 4026915 | Value: Revision of arteriovenous shunt for renal dialysis | COUNT: 198',
+'ID: 42362627 | Value: External AV Shunt For Hemodialysis | COUNT: 111',
+'ID: 2003564 | Value: Peritoneal dialysis | COUNT: 104',
+'ID: 4214705 | Value: Removal of arteriovenous shunt for renal dialysis | COUNT: 82',
+'ID: 443212 | Value: Disorder of peritoneal dialysis catheter | COUNT: 47',
+'ID: 4032243 | Value: Dialysis procedure | COUNT: 45',
+'ID: 42736574 | Value: Introduction of needle or intracatheter; arteriovenous shunt created for dialysis (cannula, fistula, or graft) | COUNT: 28',
+'ID: 4230419 | Value: Doppler ultrasonography of arteriovenous fistula for hemodialysis | COUNT: 25',
+'ID: 42364745 | Value: Repair of Arterio-Venous Fistula For Hemodialysis | COUNT: 23',
+'ID: 4108838 | Value: Insertion of chronic ambulatory peritoneal dialysis catheter | COUNT: 11',
+'ID: 4080242 | Value: Removal of chronic ambulatory peritoneal dialysis catheter | COUNT: 8',
+'ID: 4031777 | Value: Removal of peritoneal dialysis catheter | COUNT: 6',
+'ID: 437268 | Value: Iridodialysis | COUNT: 3',
+'ID: 36904621 | Value: Arteriovenostomy for renal dialysis | COUNT: 2',
+'ID: 2108277 | Value: Insertion of cannula for hemodialysis, other purpose (separate procedure); arteriovenous, external (Scribner type) | COUNT: 2'
+}
+}

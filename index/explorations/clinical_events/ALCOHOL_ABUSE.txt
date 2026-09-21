@@ -1,0 +1,25 @@
+{
+'concept_name': {
+'ID: 433753 | Value: Alcohol abuse | COUNT: 825',
+'ID: 435243 | Value: Alcohol dependence | COUNT: 494',
+'ID: 196463 | Value: Alcoholic cirrhosis | COUNT: 470',
+'ID: 436953 | Value: Continuous chronic alcoholism | COUNT: 215',
+'ID: 4340383 | Value: Alcoholic hepatitis | COUNT: 186',
+'ID: 201343 | Value: Acute alcoholic liver disease | COUNT: 186',
+'ID: 375519 | Value: Alcohol withdrawal syndrome | COUNT: 128',
+'ID: 439005 | Value: Chronic alcoholism in remission | COUNT: 95',
+'ID: 437257 | Value: Continuous acute alcoholic intoxication in alcoholism | COUNT: 63',
+'ID: 201612 | Value: Alcoholic liver damage | COUNT: 54',
+'ID: 193256 | Value: Alcoholic fatty liver | COUNT: 49',
+'ID: 378421 | Value: Alcoholic polyneuropathy | COUNT: 37',
+'ID: 4104431 | Value: Alcohol intoxication | COUNT: 29',
+'ID: 378726 | Value: Dementia associated with alcoholism | COUNT: 10',
+'ID: 441261 | Value: Episodic acute alcoholic intoxication in alcoholism | COUNT: 10',
+'ID: 432609 | Value: Acute alcoholic intoxication in remission, in alcoholism | COUNT: 5',
+'ID: 435532 | Value: Episodic chronic alcoholism | COUNT: 5',
+'ID: 377830 | Value: Alcohol withdrawal delirium | COUNT: 5',
+'ID: 195300 | Value: Alcoholic gastritis | COUNT: 3',
+'ID: 374623 | Value: Alcohol amnestic disorder | COUNT: 2',
+'ID: 433735 | Value: Acute alcoholic intoxication in alcoholism | COUNT: 1'
+}
+}

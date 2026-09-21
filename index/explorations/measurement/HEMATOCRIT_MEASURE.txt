@@ -1,0 +1,9 @@
+{
+'concept_name': {
+'ID: 3023314 | Value: Hematocrit [Volume Fraction] of Blood by Automated count | COUNT: 1034287',
+'ID: 3009542 | Value: Hematocrit [Volume Fraction] of Blood | COUNT: 1034287',
+'ID: 3034976 | Value: Hematocrit [Volume Fraction] of Venous blood | COUNT: 84393',
+'ID: 3023230 | Value: Hematocrit [Volume Fraction] of Arterial blood | COUNT: 35780',
+'ID: 4151358 | Value: Hematocrit determination | COUNT: 1909'
+}
+}

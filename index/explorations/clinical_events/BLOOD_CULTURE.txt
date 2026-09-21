@@ -1,0 +1,28 @@
+{
+'concept_name': {
+'ID: 3006673 | Value: Bacteria identified in Blood by Anaerobe culture | COUNT: 194640',
+'ID: 4252847 | Value: Anaerobic blood culture | COUNT: 147328',
+'ID: 37392838 | Value: Blood culture | COUNT: 10130',
+'ID: 4107893 | Value: Blood culture | COUNT: 7452',
+'ID: 40767123 | Value: Mycobacterium sp [Presence] in Blood by Organism specific culture | COUNT: 630',
+'ID: 36304021 | Value: Bacteria identified in Cord blood by Aerobe culture | COUNT: 580',
+'ID: 36305392 | Value: Bacteria identified in Cord blood by Anaerobe culture | COUNT: 580',
+'ID: 3023368 | Value: Bacteria identified in Blood by Culture | COUNT: 74',
+'ID: 36203580 | Value: Serratia marcescens DNA [Presence] by NAA with non-probe detection in Positive blood culture | COUNT: 6',
+'ID: 36204424 | Value: Blood pathogens panel by NAA with non-probe detection in Positive blood culture | COUNT: 6',
+'ID: 36203579 | Value: Proteus sp DNA [Presence] by NAA with non-probe detection in Positive blood culture | COUNT: 6',
+'ID: 36203575 | Value: Enterobacter cloacae complex DNA [Presence] by NAA with non-probe detection in Positive blood culture | COUNT: 6',
+'ID: 36204423 | Value: Klebsiella pneumoniae DNA [Presence] by NAA with non-probe detection in Positive blood culture | COUNT: 6',
+'ID: 36203568 | Value: Staphylococcus aureus DNA [Presence] by NAA with non-probe detection in Positive blood culture | COUNT: 6',
+'ID: 36203227 | Value: Pseudomonas aeruginosa DNA [Presence] by NAA with non-probe detection in Positive blood culture | COUNT: 6',
+'ID: 36203570 | Value: Streptococcus agalactiae DNA [Presence] by NAA with non-probe detection in Positive blood culture | COUNT: 6',
+'ID: 36203571 | Value: Streptococcus pneumoniae DNA [Presence] by NAA with non-probe detection in Positive blood culture | COUNT: 6',
+'ID: 36203572 | Value: Streptococcus pyogenes DNA [Presence] by NAA with non-probe detection in Positive blood culture | COUNT: 6',
+'ID: 36203573 | Value: Acinetobacter baumannii DNA [Presence] by NAA with non-probe detection in Positive blood culture | COUNT: 6',
+'ID: 36203574 | Value: Enterobacteriaceae DNA [Presence] by NAA with non-probe detection in Positive blood culture | COUNT: 4',
+'ID: 36204426 | Value: Staphylococcus sp DNA [Presence] by NAA with non-probe detection in Positive blood culture | COUNT: 4',
+'ID: 36203583 | Value: Candida krusei DNA [Presence] by NAA with non-probe detection in Positive blood culture | COUNT: 4',
+'ID: 36203578 | Value: Enterococcus sp DNA [Presence] by NAA with non-probe detection in Positive blood culture | COUNT: 4',
+'ID: 2007191 | Value: Microscopic examination of blood, culture | COUNT: 1'
+}
+}

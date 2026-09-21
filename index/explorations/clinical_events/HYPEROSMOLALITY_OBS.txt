@@ -1,0 +1,9 @@
+{
+'concept_name': {
+'ID: 4226238 | Value: Hyperosmolar coma due to diabetes mellitus | COUNT: 1737',
+'ID: 441829 | Value: Hyperosmolality and or hypernatremia | COUNT: 394',
+'ID: 443592 | Value: Hyperosmolality due to uncontrolled type 1 diabetes mellitus | COUNT: 92',
+'ID: 201531 | Value: Hyperosmolar coma due to type 1 diabetes mellitus | COUNT: 56',
+'ID: 37016355 | Value: Hyperosmolar coma due to secondary diabetes mellitus | COUNT: 43'
+}
+}

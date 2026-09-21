@@ -1,0 +1,10 @@
+{
+'concept_name': {
+'ID: 3026008 | Value: Bacteria identified in Urine by Culture | COUNT: 113658',
+'ID: 37393946 | Value: Urine culture | COUNT: 26436',
+'ID: 4024095 | Value: Quantitative urine culture | COUNT: 6918',
+'ID: 4024509 | Value: Urine culture | COUNT: 72',
+'ID: 3043001 | Value: Cytomegalovirus [Presence] in Urine by Shell vial culture | COUNT: 4',
+'ID: 2007326 | Value: Microscopic examination of specimen from bladder, urethra, prostate, seminal vesicle, perivesical tissue, and of urine and semen, culture | COUNT: 1'
+}
+}

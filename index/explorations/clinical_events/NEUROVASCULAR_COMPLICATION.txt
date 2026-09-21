@@ -1,0 +1,20 @@
+{
+'concept_name': {
+'ID: 4110192 | Value: Cerebral infarction due to thrombosis of cerebral arteries | COUNT: 18923',
+'ID: 381591 | Value: Cerebrovascular disease | COUNT: 7062',
+'ID: 373503 | Value: Transient cerebral ischemia | COUNT: 6389',
+'ID: 374060 | Value: Acute ill-defined cerebrovascular disease | COUNT: 3042',
+'ID: 376713 | Value: Cerebral hemorrhage | COUNT: 2310',
+'ID: 443454 | Value: Cerebral infarction | COUNT: 1412',
+'ID: 372924 | Value: Cerebral artery occlusion | COUNT: 1047',
+'ID: 374384 | Value: Cerebral ischemia | COUNT: 979',
+'ID: 4121341 | Value: Diffuse cerebrovascular disease | COUNT: 979',
+'ID: 442419 | Value: Puerperal cerebrovascular disorder - delivered | COUNT: 313',
+'ID: 4029497 | Value: Cerebral arterial aneurysm | COUNT: 166',
+'ID: 376714 | Value: Vertebrobasilar artery syndrome | COUNT: 147',
+'ID: 4108356 | Value: Cerebral infarction due to embolism of cerebral arteries | COUNT: 120',
+'ID: 40479572 | Value: Infarct of cerebrum due to iatrogenic cerebrovascular accident | COUNT: 107',
+'ID: 381316 | Value: Cerebrovascular accident | COUNT: 37',
+'ID: 442418 | Value: Puerperal cerebrovascular disorder - delivered with postnatal complication | COUNT: 24'
+}
+}

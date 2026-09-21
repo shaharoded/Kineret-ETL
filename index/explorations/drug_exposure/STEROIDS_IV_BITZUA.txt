@@ -1,0 +1,42 @@
+{
+'concept_name': {
+'ID: 45964847 | Value: Hydrocortisone sodium succinate 100mg powder for solution for injection vials | COUNT: 28675',
+'ID: 35606536 | Value: methylprednisolone 125 MG Injection [Solu-Medrol] | COUNT: 18737',
+'ID: 975505 | Value: hydrocortisone 100 MG Injection | COUNT: 13547',
+'ID: 40231785 | Value: dexamethasone sodium phosphate 4 MG/ML Injectable Solution | COUNT: 8578',
+'ID: 1719010 | Value: dexamethasone Injection | COUNT: 4100',
+'ID: 41149185 | Value: Dexamethasone 1 MG/ML Injectable Solution | COUNT: 2278',
+'ID: 19080702 | Value: dexamethasone 20 MG/ML Injectable Solution | COUNT: 1741',
+'ID: 35606538 | Value: methylprednisolone 500 MG Injection | COUNT: 1359',
+'ID: 35606533 | Value: methylprednisolone 125 MG Injection | COUNT: 709',
+'ID: 35606548 | Value: methylprednisolone acetate 40 MG/ML Injection | COUNT: 75',
+'ID: 1719045 | Value: dexamethasone phosphate 4 MG/ML Injection | COUNT: 69',
+'ID: 35606557 | Value: methylprednisolone acetate 80 MG/ML Injection [Depo-Medrol] | COUNT: 68',
+},
+"drug_type_category":["given_in_hospital"],
+"route": ["Intravenous route", "Subcutaneous route", "Intramuscular route", "No matching concept"]
+}
+
+{
+'concept_name': {
+'ID: 35604741 | Value: hydrocortisone 100 MG | COUNT: 71247',
+'ID: 975125 | Value: hydrocortisone | COUNT: 59711',
+'ID: 19085227 | Value: dexamethasone 4 MG/ML | COUNT: 32040',
+'ID: 1551099 | Value: prednisone | COUNT: 21991',
+'ID: 40241505 | Value: dexamethasone sodium phosphate 1 MG/ML | COUNT: 7113',
+'ID: 43288018 | Value: Dexamethasone 4 MG [Dexmethsone] | COUNT: 4509',
+'ID: 1518254 | Value: dexamethasone | COUNT: 4379',
+'ID: 42901480 | Value: methylprednisolone acetate 40 MG | COUNT: 2328',
+'ID: 35864920 | Value: prednisone 10 MG/ML | COUNT: 1020',
+'ID: 19085928 | Value: hydrocortisone 15 MG | COUNT: 847',
+'ID: 1518611 | Value: dexamethasone 1 MG/ML | COUNT: 276',
+'ID: 1518605 | Value: dexamethasone 0.5 MG | COUNT: 108',
+'ID: 19093653 | Value: hydrocortisone 100 MG/ML | COUNT: 81',
+'ID: 1551195 | Value: prednisone 2.5 MG | COUNT: 44',
+'ID: 40160931 | Value: dexamethasone 0.7 MG Drug Implant [Ozurdex] | COUNT: 19',
+'ID: 976014 | Value: hydrocortisone 2.5 MG/ML | COUNT: 6',
+'ID: 19078313 | Value: hydrocortisone 1.67 MG/ML Enema | COUNT: 2',
+},
+"drug_type_category":["given_in_hospital"],
+"route": ["Intravenous route", "Subcutaneous route", "Intramuscular route"]
+}

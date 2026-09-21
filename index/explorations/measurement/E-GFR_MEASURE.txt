@@ -1,0 +1,9 @@
+{
+'concept_name': {
+'ID: 40771922 | Value: Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood | COUNT: 418090',
+'ID: 46236975 | Value: Isotopic Glomerular filtration rate/1.73 sq M [Volume Rate/Area] in Urine and Serum or Plasma | COUNT: 236158'
+},
+'unit': [
+'ml/min/1.73me2', 'ml/min/1.73m2', 'ml/min/1.73m'
+]
+}

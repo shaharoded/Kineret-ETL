@@ -1,0 +1,7 @@
+{
+'concept_name': {
+'ID: 3007461 | Value: Platelets [#/volume] in Blood | COUNT: 992740',
+'ID: 3024929 | Value: Platelets [#/volume] in Blood by Automated count | COUNT: 992646',
+'ID: 3010834 | Value: Platelets [#/volume] in Blood by Manual count | COUNT: 2164'
+}
+}

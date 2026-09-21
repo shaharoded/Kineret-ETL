@@ -1,0 +1,45 @@
+{
+'concept_name': {
+'ID: 40244439 | Value: prednisolone 20 MG Oral Tablet [Prednistab] | COUNT: 31850',
+'ID: 1551170 | Value: prednisone 20 MG Oral Tablet | COUNT: 21224',
+'ID: 1518261 | Value: dexamethasone 2 MG Oral Tablet | COUNT: 13012',
+'ID: 19127775 | Value: prednisone 5 MG Oral Capsule | COUNT: 6707',
+'ID: 1551192 | Value: prednisone 5 MG Oral Tablet | COUNT: 6480',
+'ID: 1551100 | Value: prednisone 1 MG Oral Tablet | COUNT: 783',
+'ID: 1518491 | Value: dexamethasone 0.2 MG/ML Oral Solution | COUNT: 330',
+'ID: 19039383 | Value: hydrocortisone 10 MG Oral Tablet [Cortef] | COUNT: 197',
+'ID: 975168 | Value: hydrocortisone 10 MG Oral Tablet | COUNT: 197',
+'ID: 35786194 | Value: 100 ML Hydrocortisone 1 MG/ML Oral Solution | COUNT: 106',
+'ID: 19076135 | Value: dexamethasone 1 MG/ML Oral Solution | COUNT: 83',
+'ID: 21143931 | Value: Hydrocortisone 1 MG/ML Oral Solution | COUNT: 65',
+'ID: 21029961 | Value: 100 ML Hydrocortisone 2 MG/ML Oral Suspension | COUNT: 47',
+'ID: 19129883 | Value: prednisolone 3 MG/ML Oral Suspension | COUNT: 9',
+'ID: 1518258 | Value: dexamethasone 0.5 MG Oral Tablet | COUNT: 3',
+'ID: 1506426 | Value: methylprednisolone 4 MG Oral Tablet | COUNT: 1'
+},
+"drug_type_category":["given_in_hospital"],
+"route": ["Oral route", "No matching concept"]
+}
+
+{
+'concept_name': {
+'ID: 35604741 | Value: hydrocortisone 100 MG | COUNT: 71247',
+'ID: 975125 | Value: hydrocortisone | COUNT: 59711',
+'ID: 19085227 | Value: dexamethasone 4 MG/ML | COUNT: 32040',
+'ID: 1551099 | Value: prednisone | COUNT: 21991',
+'ID: 40241505 | Value: dexamethasone sodium phosphate 1 MG/ML | COUNT: 7113',
+'ID: 43288018 | Value: Dexamethasone 4 MG [Dexmethsone] | COUNT: 4509',
+'ID: 1518254 | Value: dexamethasone | COUNT: 4379',
+'ID: 42901480 | Value: methylprednisolone acetate 40 MG | COUNT: 2328',
+'ID: 35864920 | Value: prednisone 10 MG/ML | COUNT: 1020',
+'ID: 19085928 | Value: hydrocortisone 15 MG | COUNT: 847',
+'ID: 1518611 | Value: dexamethasone 1 MG/ML | COUNT: 276',
+'ID: 1518605 | Value: dexamethasone 0.5 MG | COUNT: 108',
+'ID: 19093653 | Value: hydrocortisone 100 MG/ML | COUNT: 81',
+'ID: 1551195 | Value: prednisone 2.5 MG | COUNT: 44',
+'ID: 976014 | Value: hydrocortisone 2.5 MG/ML | COUNT: 6',
+'ID: 19078313 | Value: hydrocortisone 1.67 MG/ML Enema | COUNT: 2',
+},
+"drug_type_category":["given_in_hospital"],
+"route": ["Oral route"]
+}

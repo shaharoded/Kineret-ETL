@@ -1,0 +1,8 @@
+{
+'concept_name': {
+'ID: 3187004 | Value: Sodium polystyrene sulphonate 100% powder | COUNT: 5675',
+'ID: 19078129 | Value: sodium polystyrene sulfonate 15000 MG Powder for Oral Suspension [Kayexalate] | COUNT: 3789',
+'ID: 43205380 | Value: Sodium polystyrene sulfonate 454000 MG | COUNT: 3789'
+},
+"drug_type_category": "given_in_hospital"
+}

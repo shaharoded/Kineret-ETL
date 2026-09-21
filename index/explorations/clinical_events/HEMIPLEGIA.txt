@@ -1,0 +1,19 @@
+{
+'concept_name': {
+'ID: 374022 | Value: Hemiplegia | COUNT: 2342',
+'ID: 40480429 | Value: Hemiplegia of nondominant side | COUNT: 430',
+'ID: 40482237 | Value: Hemiplegia of dominant side | COUNT: 430',
+'ID: 192606 | Value: Paraplegia | COUNT: 389',
+'ID: 40484522 | Value: Hemiplegia of dominant side as late effect of cerebrovascular disease | COUNT: 368',
+'ID: 40484513 | Value: Hemiplegia of nondominant side as late effect of cerebrovascular disease | COUNT: 306',
+'ID: 40481820 | Value: Flaccid hemiplegia of nondominant side | COUNT: 59',
+'ID: 40480944 | Value: Spastic hemiplegia of dominant side | COUNT: 54',
+'ID: 40480435 | Value: Spastic hemiplegia of nondominant side | COUNT: 45',
+'ID: 375528 | Value: Spastic hemiplegia | COUNT: 42',
+'ID: 40481757 | Value: Flaccid hemiplegia of dominant side | COUNT: 38',
+'ID: 192901 | Value: Hereditary spastic paraplegia | COUNT: 35',
+'ID: 372613 | Value: Flaccid hemiplegia | COUNT: 13',
+'ID: 40481762 | Value: Hemiplegia as late effect of cerebrovascular disease | COUNT: 4',
+'ID: 374336 | Value: Infantile hemiplegia | COUNT: 1'
+}
+}

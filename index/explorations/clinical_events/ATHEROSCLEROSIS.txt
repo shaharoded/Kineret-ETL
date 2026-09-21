@@ -1,0 +1,25 @@
+{
+'concept_name': {
+'ID: 321052 | Value: Peripheral vascular disease | COUNT: 10031',
+'ID: 315558 | Value: Atherosclerosis of arteries of the extremities | COUNT: 8701',
+'ID: 4153380 | Value: Disorder of carotid artery | COUNT: 5202',
+'ID: 321822 | Value: Peripheral vascular disorder due to diabetes mellitus | COUNT: 3221',
+'ID: 442774 | Value: Intermittent claudication | COUNT: 2603',
+'ID: 321887 | Value: Disorder of artery | COUNT: 1647',
+'ID: 40479625 | Value: Atherosclerosis of artery | COUNT: 537',
+'ID: 2001507 | Value: Other removal of coronary artery obstruction | COUNT: 381',
+'ID: 44784623 | Value: Acute coronary artery occlusion not resulting in myocardial infarction | COUNT: 380',
+'ID: 437540 | Value: Central retinal artery occlusion | COUNT: 302',
+'ID: 373487 | Value: Ischemic optic neuropathy | COUNT: 296',
+'ID: 36712779 | Value: Chronic total occlusion of coronary artery | COUNT: 221',
+'ID: 40481919 | Value: Coronary atherosclerosis | COUNT: 200',
+'ID: 195834 | Value: Atherosclerosis of renal artery | COUNT: 186',
+'ID: 44782819 | Value: Chronic occlusion of artery of extremity | COUNT: 183',
+'ID: 764058 | Value: Disorder of artery of upper extremity | COUNT: 119',
+'ID: 4159164 | Value: Disorder of basilar artery | COUNT: 90',
+'ID: 313928 | Value: Peripheral vascular complication | COUNT: 87',
+'ID: 4028073 | Value: Disorder of artery of neck | COUNT: 70',
+'ID: 318712 | Value: Peripheral circulatory disorder due to type 1 diabetes mellitus | COUNT: 35',
+'ID: 437847 | Value: Partial retinal artery occlusion | COUNT: 2',
+}
+}

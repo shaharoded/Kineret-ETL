@@ -1,0 +1,53 @@
+{
+'concept_name': {
+'ID: 968205 | Value: sodium chloride 0.154 MEQ/ML Irrigation Solution | COUNT: 841784',
+'ID: 36897159 | Value: 1000 ML Glucose 50 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution | COUNT: 67330',
+'ID: 40220357 | Value: 1000 ML sodium chloride 9 MG/ML Injection | COUNT: 39482',
+'ID: 21236917 | Value: Sodium chloride 0.9% catheter maintenance solution | COUNT: 13395',
+'ID: 19079524 | Value: sodium chloride 9 MG/ML Injectable Solution | COUNT: 12958',
+'ID: 19127213 | Value: 10 ML sodium chloride 9 MG/ML Prefilled Syringe | COUNT: 11681',
+'ID: 40221387 | Value: 500 ML sodium chloride 9 MG/ML Injection | COUNT: 8058',
+'ID: 44102577 | Value: Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injection by Hospira | COUNT: 6047',
+'ID: 44036131 | Value: Sodium Chloride 4.5 MG/ML Injection by Hospira | COUNT: 4203',
+'ID: 40221368 | Value: 500 ML sodium chloride 4.5 MG/ML Injection | COUNT: 3610',
+'ID: 36249687 | Value: 1000 ML glucose 50 MG/ML / sodium chloride 4.5 MG/ML Injection | COUNT: 3545',
+'ID: 19127417 | Value: 500 ML sodium chloride 30 MG/ML Injection | COUNT: 2594',
+'ID: 2936559 | Value: Heparin Sodium 2 IU/ML / sodium chloride 9 MG/ML Injection | COUNT: 2457',
+'ID: 36249686 | Value: 1000 ML glucose 50 MG/ML / sodium chloride 3.3 MG/ML Injection | COUNT: 2402',
+'ID: 36249703 | Value: 1000 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection | COUNT: 2192',
+'ID: 967904 | Value: 1000 ML potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection | COUNT: 1966',
+'ID: 1593202 | Value: 1000 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 3 MG/ML Injection | COUNT: 1591',
+'ID: 968304 | Value: 1000 ML potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection | COUNT: 1427',
+'ID: 36249688 | Value: glucose 50 MG/ML / sodium chloride 4.5 MG/ML Injection | COUNT: 1271',
+'ID: 1593065 | Value: 500 ML glucose 50 MG/ML / potassium chloride 0.02 MEQ/ML / sodium chloride 4.5 MG/ML Injection | COUNT: 833',
+'ID: 1593066 | Value: glucose 50 MG/ML / potassium chloride 0.03 MEQ/ML / sodium chloride 4.5 MG/ML Injection | COUNT: 809',
+'ID: 40221385 | Value: 100 ML sodium chloride 9 MG/ML Injection | COUNT: 769',
+'ID: 968370 | Value: glucose 33 MG/ML / sodium chloride 0.0513 MEQ/ML Injectable Solution | COUNT: 606',
+'ID: 36249689 | Value: 500 ML glucose 50 MG/ML / sodium chloride 4.5 MG/ML Injection | COUNT: 518',
+'ID: 42918383 | Value: 500 ML Sodium Chloride 30 MG/ML Injectable Solution | COUNT: 398',
+'ID: 36249701 | Value: 500 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection | COUNT: 335',
+'ID: 19127418 | Value: 500 ML sodium chloride 50 MG/ML Injection | COUNT: 283',
+'ID: 21118599 | Value: 500 ML Potassium Chloride 1.5 MG/ML / Sodium Chloride 9 MG/ML Injection | COUNT: 271',
+'ID: 1718809 | Value: potassium chloride 0.04 MEQ/ML / sodium chloride 9 MG/ML Injection | COUNT: 271',
+'ID: 40221386 | Value: 250 ML sodium chloride 9 MG/ML Injection | COUNT: 237',
+'ID: 36249702 | Value: glucose 50 MG/ML / sodium chloride 9 MG/ML Injection | COUNT: 231',
+'ID: 1718810 | Value: potassium chloride 0.02 MEQ/ML / sodium chloride 9 MG/ML Injection | COUNT: 201',
+'ID: 19079551 | Value: sodium chloride 234 MG/ML Injectable Solution | COUNT: 55',
+'ID: 40221384 | Value: 50 ML sodium chloride 9 MG/ML Injection | COUNT: 36',
+'ID: 44123768 | Value: Calcium Chloride 0.2 MG/ML / Lactate 3.1 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML Injection | COUNT: 24',
+'ID: 44068938 | Value: Dextran 40 / Sodium Chloride Injection | COUNT: 5',
+'ID: 36896959 | Value: 500 ML Sodium Chloride 3 MG/ML Injectable Solution | COUNT: 2'
+},
+"drug_type_category":"given_in_hospital",
+"route": ["Intravenous route", "No matching concept"]
+}
+
+{
+'concept_name': {
+'ID: 967823 | Value: sodium chloride | COUNT: 810585',
+'ID: 44091166 | Value: Sodium Chloride 9 MG | COUNT: 1702',
+'ID: 19111926 | Value: sodium chloride 500 MG | COUNT: 1423'
+},
+"drug_type_category":"given_in_hospital",
+"route": ["Intravenous route"]
+}

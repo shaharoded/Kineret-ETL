@@ -1,0 +1,15 @@
+{
+'concept_name': {
+'ID: 3004501 | Value: Glucose [Mass/volume] in Serum or Plasma | COUNT: 2627108',
+'ID: 3000483 | Value: Glucose [Mass/volume] in Blood | COUNT: 1623480',
+'ID: 3034962 | Value: Glucose [Mass/volume] in Capillary blood by Glucometer | COUNT: 1453946',
+'ID: 44816672 | Value: Glucose [Mass/volume] in Serum, Plasma or Blood | COUNT: 1013994',
+'ID: 37393576 | Value: Glucose level | COUNT: 300739',
+'ID: 4042066 | Value: Glucometer blood glucose | COUNT: 253159',
+'ID: 4144235 | Value: Glucose measurement, blood | COUNT: 163834',
+'ID: 3004077 | Value: Glucose [Mass/volume] in Capillary blood | COUNT: 5798',
+'ID: 37394394 | Value: Blood glucose method | COUNT: 1239',
+'ID: 4149519 | Value: Glucose measurement | COUNT: 74',
+'ID: 3031266 | Value: Glucose [Mass/volume] in Arterial blood | COUNT: 64'
+}
+}

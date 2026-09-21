@@ -1,0 +1,8 @@
+{
+'concept_name': {
+'ID: 35603394 | Value: calcium gluconate Injection | COUNT: 5235',
+'ID: 19037061 | Value: calcium gluconate 100 MG/ML Injectable Solution | COUNT: 439',
+'ID: 1537437 | Value: calcium gluconate 10 MG/ML Injection | COUNT: 266',
+'ID: 35603397 | Value: 10 ML calcium gluconate 100 MG/ML Injection | COUNT: 173'
+}
+}

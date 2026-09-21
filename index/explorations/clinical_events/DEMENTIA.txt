@@ -1,0 +1,28 @@
+{
+'concept_name': {
+'ID: 4182210 | Value: Dementia | COUNT: 2368',
+'ID: 374888 | Value: Dementia associated with another disease | COUNT: 826',
+"ID: 378419 | Value: Alzheimer's disease | COUNT: 673",
+'ID: 43530666 | Value: Dementia with behavioral disturbance | COUNT: 421',
+'ID: 443605 | Value: Vascular dementia | COUNT: 365',
+'ID: 4297400 | Value: Mild cognitive disorder | COUNT: 331',
+'ID: 37396726 | Value: Cognitive communication disorder | COUNT: 92',
+'ID: 378125 | Value: Presenile dementia | COUNT: 42',
+'ID: 375791 | Value: Uncomplicated senile dementia | COUNT: 24',
+'ID: 4043378 | Value: Frontotemporal dementia | COUNT: 21',
+'ID: 377254 | Value: Multi-infarct dementia, uncomplicated | COUNT: 20',
+'ID: 443864 | Value: Multi-infarct dementia with depression | COUNT: 20',
+'ID: 444091 | Value: Multi-infarct dementia with delirium | COUNT: 17',
+'ID: 376946 | Value: Senile dementia with delirium | COUNT: 13',
+'ID: 376085 | Value: Uncomplicated presenile dementia | COUNT: 12',
+'ID: 4048875 | Value: Senile dementia | COUNT: 11',
+'ID: 378726 | Value: Dementia associated with alcoholism | COUNT: 10',
+'ID: 377527 | Value: Presenile dementia with depression | COUNT: 9',
+'ID: 381832 | Value: Presenile dementia with delirium | COUNT: 9',
+'ID: 379784 | Value: Senile dementia with depression | COUNT: 6',
+'ID: 4218017 | Value: Primary degenerative dementia of the Alzheimer type, presenile onset | COUNT: 3',
+'ID: 44782771 | Value: Presenile dementia with delusions | COUNT: 3',
+'ID: 443790 | Value: Multi-infarct dementia with delusions | COUNT: 1',
+'ID: 376095 | Value: Drug-induced dementia | COUNT: 1'
+}
+}

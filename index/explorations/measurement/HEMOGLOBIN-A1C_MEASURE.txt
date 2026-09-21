@@ -1,0 +1,8 @@
+{
+'concept_name': {
+'ID: 3004410 | Value: Hemoglobin A1c/Hemoglobin.total in Blood | COUNT: 25189',
+'ID: 3034639 | Value: Hemoglobin A1c [Mass/volume] in Blood | COUNT: 24066',
+'ID: 40762352 | Value: Hemoglobin A1c/Hemoglobin.total in Blood by IFCC protocol | COUNT: 24066',
+'ID: 3005673 | Value: Hemoglobin A1c/Hemoglobin.total in Blood by HPLC | COUNT: 20880'
+}
+}

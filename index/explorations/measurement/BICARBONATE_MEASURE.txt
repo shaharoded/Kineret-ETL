@@ -1,0 +1,7 @@
+{
+'concept_name': {
+'ID: 3006576 | Value: Bicarbonate [Moles/volume] in Blood | COUNT: 342282',
+'ID: 3027273 | Value: Bicarbonate [Moles/volume] in Venous blood | COUNT: 269890',
+'ID: 3008152 | Value: Bicarbonate [Moles/volume] in Arterial blood | COUNT: 5770'
+}
+}

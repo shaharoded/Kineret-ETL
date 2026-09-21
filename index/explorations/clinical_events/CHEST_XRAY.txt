@@ -1,0 +1,24 @@
+{
+'concept_name': {
+'ID: 2211359 | Value: Radiologic examination, chest; single view, frontal | COUNT: 329225',
+'ID: 2211361 | Value: Radiologic examination, chest, 2 views, frontal and lateral | COUNT: 66726',
+'ID: 2211373 | Value: Radiologic examination, ribs, unilateral; including posteroanterior chest, minimum of 3 views | COUNT: 2608',
+'ID: 2211360 | Value: Radiologic examination, chest; stereo, frontal | COUNT: 380',
+'ID: 2211367 | Value: Radiologic examination, chest, special views (eg, lateral decubitus, Bucky studies) | COUNT: 284',
+'ID: 2211520 | Value: Radiologic examination, esophagus, including scout chest radiograph(s) and delayed image(s), when performed; single-contrast (eg, barium) study | COUNT: 161',
+'ID: 2211364 | Value: Radiologic examination, chest, 2 views, frontal and lateral; with fluoroscopy | COUNT: 73',
+'ID: 2211363 | Value: Radiologic examination, chest, 2 views, frontal and lateral; with oblique projections | COUNT: 40',
+'ID: 2211362 | Value: Radiologic examination, chest, 2 views, frontal and lateral; with apical lordotic procedure | COUNT: 33',
+
+'ID: 4056836 | Value: Standard chest X-ray | COUNT: 805',
+'ID: 2006700 | Value: Other chest x-ray | COUNT: 55',
+'ID: 2006694 | Value: Other soft tissue x-ray of chest wall | COUNT: 7',
+
+'ID: 2211738 | Value: Ultrasound, chest (includes mediastinum), real time with image documentation | COUNT: 239',
+
+'ID: 2211381 | Value: Computed tomographic angiography, chest (noncoronary), with contrast material(s), including noncontrast images, if performed, and image postprocessing | COUNT: 8144',
+'ID: 2212056 | Value: Positron emission tomography (PET) with concurrently acquired computed tomography (CT) for attenuation correction and anatomical localization imaging; limited area (eg, chest, head/neck) | COUNT: 6',
+
+'ID: 4058335 | Value: CT of chest | COUNT: 4801'
+}
+}

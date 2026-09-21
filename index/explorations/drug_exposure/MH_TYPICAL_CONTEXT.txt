@@ -1,0 +1,23 @@
+{
+'concept_name': {
+'ID: 19077930 | Value: haloperidol 5 MG Oral Tablet | COUNT: 928',
+'ID: 19027427 | Value: haloperidol 5 MG/ML Injectable Solution | COUNT: 741',
+'ID: 19031152 | Value: haloperidol 2 MG/ML Oral Solution [Haldol] | COUNT: 424',
+'ID: 766530 | Value: haloperidol 2 MG/ML Oral Solution | COUNT: 356',
+'ID: 43186270 | Value: 15 ML Haloperidol 2 MG/ML Oral Solution | COUNT: 345',
+'ID: 35603090 | Value: haloperidol decanoate 100 MG/ML Injection | COUNT: 191',
+'ID: 19080061 | Value: haloperidol 10 MG Oral Tablet | COUNT: 184',
+'ID: 40179680 | Value: chlorpromazine hydrochloride 25 MG Oral Tablet | COUNT: 146',
+'ID: 35603238 | Value: 1 ML haloperidol 5 MG/ML Injection | COUNT: 141',
+'ID: 43280547 | Value: 2 ML Chlorpromazine 25 MG/ML Injection [Largactil] | COUNT: 94',
+'ID: 40179642 | Value: chlorpromazine hydrochloride 100 MG Oral Tablet | COUNT: 51',
+'ID: 35605391 | Value: 2 ML chlorpromazine hydrochloride 25 MG/ML Injection | COUNT: 43',
+'ID: 19077928 | Value: haloperidol 0.5 MG Oral Tablet | COUNT: 40',
+'ID: 40179681 | Value: chlorpromazine hydrochloride 25 MG Oral Tablet [Thorazine] | COUNT: 33',
+'ID: 36895097 | Value: 1 ML Haloperidol 2 MG/ML Oral Solution | COUNT: 11',
+'ID: 40179655 | Value: chlorpromazine hydrochloride 100 MG Oral Tablet [Thorazine] | COUNT: 8',
+'ID: 19031152 | Value: haloperidol 2 MG/ML Oral Solution [Haldol] | COUNT: 6',
+'ID: 35605391 | Value: 2 ML chlorpromazine hydrochloride 25 MG/ML Injection | COUNT: 1'
+},
+"drug_type_category":["given_in_hospital", "chronic_medications"]
+}

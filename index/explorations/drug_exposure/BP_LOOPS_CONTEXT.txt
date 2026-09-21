@@ -1,0 +1,23 @@
+# Blood pressure meds
+{
+'concept_name': {
+'ID: 957136 | Value: furosemide 40 MG Oral Tablet | COUNT: 253574',
+'ID: 41019192 | Value: Furosemide Injectable Solution [Fusid] | COUNT: 106328',
+'ID: 957133 | Value: furosemide 20 MG/ML Injectable Solution | COUNT: 49801',
+'ID: 35603225 | Value: furosemide 10 MG/ML Injection | COUNT: 25487',
+'ID: 956874 | Value: furosemide | COUNT: 14379',
+'ID: 957136 | Value: furosemide 40 MG Oral Tablet | COUNT: 6970',
+'ID: 19110022 | Value: furosemide 250 MG | COUNT: 1948',
+'ID: 35603224 | Value: 10 ML furosemide 10 MG/ML Injection | COUNT: 467',
+'ID: 41019192 | Value: Furosemide Injectable Solution [Fusid] | COUNT: 196',
+'ID: 19019042 | Value: furosemide 10 MG/ML Oral Solution | COUNT: 39',
+'ID: 957133 | Value: furosemide 20 MG/ML Injectable Solution | COUNT: 38',
+'ID: 957203 | Value: furosemide 20 MG/ML | COUNT: 17',
+'ID: 957207 | Value: furosemide 1 MG/ML | COUNT: 16',
+'ID: 21064556 | Value: Furosemide 2 MG/ML Oral Solution | COUNT: 3',
+'ID: 957203 | Value: furosemide 20 MG/ML | COUNT: 2',
+'ID: 957140 | Value: furosemide 10 MG/ML | COUNT: 2',
+'ID: 956874 | Value: furosemide | COUNT: 2'
+},
+"drug_type_category":["given_in_hospital","chronic_medications"]
+}

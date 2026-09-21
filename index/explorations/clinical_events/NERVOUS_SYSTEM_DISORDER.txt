@@ -1,0 +1,7 @@
+{
+'concept_name': {
+'ID: 376112 | Value: Polyneuropathy due to diabetes mellitus | COUNT: 3066',
+'ID: 443730 | Value: Disorder of nervous system due to diabetes mellitus | COUNT: 2649',
+'ID: 377821 | Value: Disorder of nervous system due to type 1 diabetes mellitus | COUNT: 100'
+}
+}

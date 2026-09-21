@@ -1,0 +1,35 @@
+# Blood pressure meds
+{
+'concept_name': {
+'ID: 1363058 | Value: doxazosin 2 MG Oral Tablet | COUNT: 47670',
+'ID: 1363059 | Value: doxazosin 4 MG Oral Tablet | COUNT: 33696',
+'ID: 1363057 | Value: doxazosin 1 MG Oral Tablet | COUNT: 14669',
+'ID: 40174765 | Value: hydralazine hydrochloride 10 MG Oral Tablet | COUNT: 12042',
+'ID: 40174825 | Value: hydralazine hydrochloride 50 MG Oral Tablet | COUNT: 2513',
+'ID: 40174821 | Value: hydralazine hydrochloride 50 MG / hydrochlorothiazide 50 MG Oral Tablet | COUNT: 2383',
+'ID: 1373928 | Value: hydralazine | COUNT: 1460',
+'ID: 43277720 | Value: Hydralazine 50 MG Oral Tablet [Alphapress] | COUNT: 1275',
+'ID: 1363058 | Value: doxazosin 2 MG Oral Tablet | COUNT: 1107',
+'ID: 40174766 | Value: hydralazine hydrochloride 10 MG Oral Tablet [Apresoline] | COUNT: 869',
+'ID: 1363059 | Value: doxazosin 4 MG Oral Tablet | COUNT: 721',
+'ID: 1363083 | Value: doxazosin 2 MG | COUNT: 694',
+'ID: 42935654 | Value: Doxazosin Oral Tablet [DOXAZOSIN MESYLATE HANALL] | COUNT: 596',
+'ID: 1363057 | Value: doxazosin 1 MG Oral Tablet | COUNT: 416',
+'ID: 1309122 | Value: minoxidil 20 MG/ML | COUNT: 308',
+'ID: 40174765 | Value: hydralazine hydrochloride 10 MG Oral Tablet | COUNT: 150',
+'ID: 1309124 | Value: minoxidil 5 MG | COUNT: 115',
+'ID: 1309071 | Value: minoxidil 5 MG Oral Tablet | COUNT: 76',
+'ID: 1309070 | Value: minoxidil 2.5 MG Oral Tablet | COUNT: 23',
+'ID: 1373928 | Value: hydralazine | COUNT: 23',
+'ID: 21061008 | Value: Hydralazine 20 MG Injection | COUNT: 20',
+'ID: 40174825 | Value: hydralazine hydrochloride 50 MG Oral Tablet | COUNT: 11',
+'ID: 1309122 | Value: minoxidil 20 MG/ML | COUNT: 8',
+'ID: 1309071 | Value: minoxidil 5 MG Oral Tablet | COUNT: 8',
+'ID: 40174821 | Value: hydralazine hydrochloride 50 MG / hydrochlorothiazide 50 MG Oral Tablet | COUNT: 5',
+'ID: 40174766 | Value: hydralazine hydrochloride 10 MG Oral Tablet [Apresoline] | COUNT: 3',
+'ID: 43277720 | Value: Hydralazine 50 MG Oral Tablet [Alphapress] | COUNT: 2',
+'ID: 1363083 | Value: doxazosin 2 MG | COUNT: 2',
+'ID: 1309124 | Value: minoxidil 5 MG | COUNT: 1'
+},
+"drug_type_category":["given_in_hospital","chronic_medications"]
+}

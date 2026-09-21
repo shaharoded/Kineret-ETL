@@ -1,0 +1,13 @@
+{
+'concept_name': {
+'ID: 939506 | Value: sodium bicarbonate | COUNT: 6196',
+'ID: 939539 | Value: sodium bicarbonate 500 MG Oral Tablet | COUNT: 2727',
+'ID: 939684 | Value: sodium bicarbonate 500 MG | COUNT: 1460',
+'ID: 35850867 | Value: sodium bicarbonate 150 MG | COUNT: 859',
+'ID: 1593966 | Value: 50 ML sodium bicarbonate 84 MG/ML Injection | COUNT: 374',
+'ID: 37499760 | Value: 100 ML sodium bicarbonate 84 MG/ML Injection | COUNT: 333',
+'ID: 36880517 | Value: Sodium Bicarbonate 8 X | COUNT: 20'
+},
+"drug_type_category":"given_in_hospital",
+"route":"Intravenous route"
+}

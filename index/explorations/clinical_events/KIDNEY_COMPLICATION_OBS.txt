@@ -1,0 +1,12 @@
+{
+'concept_name': {
+'ID: 197320 | Value: Acute renal failure syndrome | COUNT: 23727',
+'ID: 192359 | Value: Renal failure syndrome | COUNT: 18000',
+'ID: 45757466 | Value: Acute renal failure due to tubular necrosis | COUNT: 48',
+'ID: 197329 | Value: Acute renal failure due to acute cortical necrosis | COUNT: 23',
+'ID: 44784439 | Value: Benign hypertensive renal disease with renal failure | COUNT: 22',
+'ID: 439694 | Value: Hypertensive heart and renal disease with both (congestive) heart failure and renal failure | COUNT: 5',
+'ID: 432961 | Value: Acute renal papillary necrosis with renal failure | COUNT: 4',
+'ID: 439695 | Value: Hypertensive heart and renal disease with renal failure | COUNT: 2'
+}
+}

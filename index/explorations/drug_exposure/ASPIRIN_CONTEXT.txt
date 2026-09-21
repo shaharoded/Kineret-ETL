@@ -1,0 +1,21 @@
+{
+'concept_name': {
+'ID: 43778797 | Value: Aspirin 100 MG Oral Tablet by Bayer | COUNT: 129864',
+'ID: 1113348 | Value: aspirin 100 MG | COUNT: 73483',
+'ID: 1113143 | Value: aspirin 100 MG Oral Tablet | COUNT: 61934',
+'ID: 43292904 | Value: Aspirin 100 MG Delayed Release Oral Tablet [Cartia] | COUNT: 12393',
+'ID: 1112807 | Value: aspirin | COUNT: 8658',
+'ID: 19004043 | Value: aspirin 75 MG Oral Tablet | COUNT: 5216',
+'ID: 43778800 | Value: Aspirin 100 MG Oral Tablet [Godamed] | COUNT: 1557',
+'ID: 1112896 | Value: aspirin 500 MG Oral Tablet | COUNT: 1501',
+'ID: 41006648 | Value: Ascorbic Acid 240 MG / Aspirin 400 MG Oral Tablet [Aspirin C] | COUNT: 205',
+'ID: 1112923 | Value: aspirin 300 MG Oral Tablet | COUNT: 198',
+'ID: 40882034 | Value: Aspirin 500 MG Oral Tablet [Acetylsalicylsaeure Hermes] | COUNT: 192',
+'ID: 43616763 | Value: Aspirin Oral Tablet [Godamed] | COUNT: 145',
+'ID: 36271022 | Value: Aspirin 25 MG / Dipyridamole 200 MG Delayed Release Oral Capsule [Aggrenox] | COUNT: 74',
+'ID: 41048478 | Value: Ascorbic Acid 240 MG / Aspirin 400 MG [Aspirin C] | COUNT: 72',
+'ID: 1718410 | Value: aspirin 25 MG / dipyridamole 200 MG Extended Release Oral Capsule [Aggrenox] | COUNT: 38',
+'ID: 41151076 | Value: Aspirin 400 MG / Caffeine 50 MG / Codeine 10 MG Oral Tablet | COUNT: 3'
+},
+"drug_type_category":"given_in_hospital"
+}

@@ -1,0 +1,9 @@
+{
+'concept_name': {
+'ID: 3002385 | Value: Erythrocyte distribution width [Ratio] | COUNT: 994575',
+'ID: 3019897 | Value: Erythrocyte distribution width [Ratio] by Automated count | COUNT: 994574'
+},
+'unit': {
+'%'
+}
+}

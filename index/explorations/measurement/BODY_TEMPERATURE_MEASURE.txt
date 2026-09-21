@@ -1,0 +1,5 @@
+{
+'concept_name': {
+'ID: 4302666 | Value: Body temperature | COUNT: 1963055'
+}
+}

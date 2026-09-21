@@ -1,0 +1,16 @@
+{
+'concept_name': {
+'ID: 312327 | Value: Acute myocardial infarction | COUNT: 6652',
+'ID: 434376 | Value: Acute myocardial infarction of anterior wall | COUNT: 2177',
+'ID: 438170 | Value: Acute myocardial infarction of inferior wall | COUNT: 2097',
+'ID: 438438 | Value: Acute myocardial infarction of anterolateral wall | COUNT: 805',
+'ID: 441579 | Value: Acute myocardial infarction of inferoposterior wall | COUNT: 728',
+'ID: 438447 | Value: Acute myocardial infarction of inferolateral wall | COUNT: 652',
+'ID: 436706 | Value: Acute myocardial infarction of lateral wall | COUNT: 415',
+'ID: 4329847 | Value: Myocardial infarction | COUNT: 139',
+'ID: 439693 | Value: True posterior myocardial infarction | COUNT: 106',
+'ID: 4215140 | Value: Acute coronary syndrome | COUNT: 103',
+'ID: 321320 | Value: Myocardial degeneration | COUNT: 5',
+'ID: 319038 | Value: Postmyocardial infarction syndrome | COUNT: 11'
+}
+}
