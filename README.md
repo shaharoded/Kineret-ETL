@@ -1,6 +1,6 @@
 # Kineret-ETL
 
-Preprocessing pipeline that turns raw **OMOP CDM** hospital data (Kineret / Rambam cohort) into the tabular input consumed downstream by the **Mediator** temporal-abstraction stage. This is the ETL half of the work described in the JAMIA paper and in the thesis — everything up to, but not including, the prediction phase.
+Preprocessing pipeline that turns raw **OMOP CDM** hospital data (Kineret 6 Israeli hospitals cohort) into the tabular input consumed downstream by the **Mediator** temporal-abstraction stage. This is the ETL half of the work described in the JAMIA paper and in the thesis — everything up to, but not including, the prediction phase.
 
 ## What this repo contains
 
